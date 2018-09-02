@@ -1,8 +1,8 @@
 {
   "name": "Krunker.io cheats",
-  "version": "0.7.60",
+  "version": "0.7.61",
   "description": "Krunker.io chrome extension",
-  "homepage_url": "https://github.com/Najlepszy56/Krunker.io-Cheats",
+  "homepage_url": "https://github.com/PowerOfUniverse/Krunker.io-Cheats",
   "manifest_version": 2,
   "permissions": [
     "tabs",
