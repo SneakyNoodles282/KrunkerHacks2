@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.7.64] - 03.09.2018
+- The problem with endless page loading has been fixed.
+- The problem with cleaning the pressed keys has been fixed(after the round).
+
 ## [0.7.63] - 03.09.2018
 - The ability to disable the cheat has been added(button Z).
 - If you need to temporary disable auto aim, just hold Left shift key.
