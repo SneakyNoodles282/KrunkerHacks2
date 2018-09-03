@@ -1,6 +1,6 @@
 {
   "name": "Krunker.io cheats",
-  "version": "0.7.61",
+  "version": "0.7.62",
   "description": "Krunker.io chrome extension",
   "homepage_url": "https://github.com/PowerOfUniverse/Krunker.io-Cheats",
   "manifest_version": 2,
@@ -13,10 +13,17 @@
     "webRequestBlocking",
     "background"
   ],
+  "externally_connectable": {
+      "matches": [
+        "*://*.Krunker.io/"
+      ]
+  },
   "web_accessible_resources": [
-    "game.js"
+    "init.js"
   ],
   "background": {
-    "scripts": ["background.js"]
+    "scripts": [
+      "background.js"
+    ]
   }
 }

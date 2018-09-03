@@ -1,0 +1,4 @@
+# Changelog
+
+## [0.7.62] - 03.09.2018
+- Changing the way files are loaded.
