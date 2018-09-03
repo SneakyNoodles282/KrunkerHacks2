@@ -1,4 +1,8 @@
 # Changelog
 
+## [0.7.63] - 03.09.2018
+- The ability to disable the cheat has been added(button Z).
+- If you need to temporary disable auto aim, just hold Left shift key.
+
 ## [0.7.62] - 03.09.2018
 - Changing the way files are loaded.
