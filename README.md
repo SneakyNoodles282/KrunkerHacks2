@@ -8,6 +8,11 @@ This is a Krunker.io cheat loaded as a Chrome extension.
 * No recoil
 * FPS Counter
 
+### :information_source: Instructions
+
+- Press Z key to enable/disable the cheat.
+- If you need to temporary disable auto aim, just hold Left shift key.
+
 ## :hammer: Installation
 
 1. Download [this repo as a ZIP file](https://github.com/PowerOfUniverse/Krunker.io-Cheats/archive/master.zip). 
