@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.7.65] - 04.09.2018
+- Menu added.
+- Automatic update information has been added.
+
 ## [0.7.64] - 03.09.2018
 - The problem with endless page loading has been fixed.
 - The problem with cleaning the pressed keys has been fixed(after the round).
