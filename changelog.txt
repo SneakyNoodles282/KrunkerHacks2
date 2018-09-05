@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.7.66] - 05.09.2018
+- Auto jumps added(just hold down the space).
+- Automatic shooting has been added.    [disabled by default][available in the menu]
+- A smoother aim option has been added. [disabled by default][available in the menu]
+
 ## [0.7.65] - 04.09.2018
 - Menu added.
 - Automatic update information has been added.
