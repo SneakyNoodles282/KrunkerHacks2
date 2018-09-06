@@ -24,3 +24,10 @@ This is a Krunker.io cheat loaded as a Chrome extension.
 
 ## :warning: Warning!
 All actions you take at your own risk. The author is not responsible for the consequences of your actions.
+
+## Donation
+If this project help you reduce time to develop, you can give me a cup of coffee :)
+
+ETH: 0x522e2be4b3f15d9e9e877e449cc13701b4bc91d7
+
+BTC: 35zjJBGpn2fVd9Dtx5NmrhAXmPYK5r9sMZ

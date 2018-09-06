@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.7.69] - 06.09.2018
+- The code has been updated to version: 0.9.9993
+
 ## [0.7.68] - 06.09.2018
 - The problem with turning off autoAim has been fixed
 
