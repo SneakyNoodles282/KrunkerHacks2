@@ -1,5 +1,8 @@
 # Changelog
 
+## [0.7.68] - 06.09.2018
+- The problem with turning off autoAim has been fixed
+
 ## [0.7.67] - 06.09.2018
 - If you want to activate the autoAim you have to press the right mouse button.[available in the menu]
 
