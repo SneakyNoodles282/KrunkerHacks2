@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.7.70] - 
+- Automatic data storage in the menu has been added
+- The ability to change the assigned keys has been added
+
 ## [0.7.69] - 06.09.2018
 - The code has been updated to version: 0.9.9993
 
